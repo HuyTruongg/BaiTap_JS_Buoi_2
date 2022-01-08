@@ -1,4 +1,4 @@
-/** Tính tổng 2 ký số
+/** Tính tổng 2 ký số 
  * Khôi 1: Input
  * num (giả sử 49)
  *  
